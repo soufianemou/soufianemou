@@ -8,30 +8,20 @@
 <br/>  
 - 📧 Contact me at: <a href="mailto:mouahhidisoufianedev@gmail.com">mouahhidisoufianedev@gmail.com</a>
 <br/> 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+##  Connect with me  
+<div>
+<a href="https://github.com/soufianemou" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://linkedin.com/in/soufiane-mouahhidi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/souf_hidi" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 
-<br/>  
 <br/>  
 <br/>  
 ## 📊 Languages and Tools:
@@ -43,15 +33,17 @@
 ## 📊 GitHub Stats:
 
 <br/>  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianemou&show_icons=true&locale=en&layout=compact" align="center" alt="soufianemou"/>
-</div>  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=soufianemou&show_icons=true&locale=en" align="center" alt="soufianemou"/>
-</div>  
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soufianemou&" align="center" alt="soufianemou"/>
-</div>  
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?  
+ username=soufianemou&show_icons=true&locale=en&layout=compact" alt="soufianemou"/>
+<img src="https://github-readme-stats.vercel.app/api?username=soufianemou&show_icons=true&locale=en" alt="soufianemou"/>
+</div>
+
+<br>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soufianemou&" align="center" alt="soufianemou"/>
+</div>
+ 
 
 <br/>  
 
@@ -60,7 +52,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soufianemou" alt="soufianemou" /></a> </p>
 
 <br/>  
-## Support:
+##  Support:
 <p><a href="https://www.buymeacoffee.com/soufianemou"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soufianemou" /></a></p><br><br>
 <br/>  
 

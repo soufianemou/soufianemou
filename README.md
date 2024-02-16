@@ -7,8 +7,10 @@
 - 👨‍💻 All of my projects are available at <a href="https://soufianemouahhidi.vercel.app">My Portfolio</a>
 <br/>  
 - 📧 Contact me at: <a href="mailto:mouahhidisoufianedev@gmail.com">mouahhidisoufianedev@gmail.com</a>
+<br/>
 <br/> 
 ##  Connect with me  
+<br/> <br/> 
 <div>
 <a href="https://github.com/soufianemou" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -33,12 +35,10 @@
 ## 📊 GitHub Stats:
 
 <br/>  
-<div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?  
- username=soufianemou&show_icons=true&locale=en&layout=compact" alt="soufianemou"/>
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianemou&show_icons=true&locale=en&layout=compact" alt="soufianemou"/>  
 <img src="https://github-readme-stats.vercel.app/api?username=soufianemou&show_icons=true&locale=en" alt="soufianemou"/>
 </div>
-
 <br>
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soufianemou&" align="center" alt="soufianemou"/>

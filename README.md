@@ -4,9 +4,8 @@
 <h3 align="center">A passionate full stack for creating engaging web experiences and a strong desire to learn new technologies.</h3>
 <br/>  
 <br/>  
-- 🌐 Explore my projects: [Portfolio](https://soufianemouahhidi.vercel.app/)
-- 👨‍💻 All of my projects are available at [My Portfolio](https://soufianemouahhidi.vercel.app/)
-- 📧 Contact me at: [mouahhidisoufianedev@gmail.com](mouahhidisoufianedev@gmail.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://soufianemouahhidi.vercel.app/)<br/>  
+- 📧 Contact me at: [mouahhidisoufianedev@gmail.com](mailto:mouahhidisoufianedev@gmail.com)<br/>  
 <br/>  
 <br/>  
 <h3 align="left">Languages and Tools:</h3>
@@ -19,10 +18,10 @@
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianemou&show_icons=true&locale=en&layout=compact" alt="soufianemou" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianemou&show_icons=true&locale=en&layout=compact" alt="soufianemou" /></p> 
+<br/>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soufianemou&show_icons=true&locale=en" alt="soufianemou" /></p>
-
+<br/>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soufianemou&" alt="soufianemou" /></p>
 
 

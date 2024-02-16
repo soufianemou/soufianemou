@@ -14,7 +14,7 @@
 <br/>  
 <br/>  
 
-##- 📊 GitHub Stats:
+##📊 GitHub Stats:
 
 <br/>  
 
@@ -26,7 +26,7 @@
 
 
 
-##- 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soufianemou" alt="soufianemou" /></a> </p>
 

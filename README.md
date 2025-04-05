@@ -4,9 +4,9 @@
 <h3 align="center">A passionate full stack for creating engaging web experiences and a strong desire to learn new technologies.</h3>
 <br/>  
 <br/>  
-- 👨‍💻 All of my projects are available at <a href="https://soufianemouahhidi.vercel.app">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://soufianemouahhidi.com" target="_blank" >My Website</a>
 <br/>  
-- 📧 Contact me at: <a href="mailto:mouahhidisoufianedev@gmail.com">mouahhidisoufianedev@gmail.com</a>
+- 📧 Contact me at: <a href="mailto:contact@soufianemouahhidi.com">contact@soufianemouahhidi.com</a>
 <br/>
 <br/> 
 ##  Connect with me  
